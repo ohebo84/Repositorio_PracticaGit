@@ -12,3 +12,10 @@
 <ol>
 Punto 11
 punto 12
+nuevos ingredientes 
+<ol>
+<li>piña</li>
+<li>ciruelas</li>
+<li>Jamón</li>
+<li>tocineta</li>
+<ol>
