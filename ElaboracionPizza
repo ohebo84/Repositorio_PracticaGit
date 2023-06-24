@@ -1,6 +1,15 @@
+<!DOCTYPE html>
+<html>
 <head>
-<h4>Preparacion de la pizza</h4>
-    <ol>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Receta de Pizza</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h4>Preparacion de la pizza</h4>
         <p>Para elaborar una masa para pizza casera fácilmente puedes utilizar <br>
         este tipo de levadura o hacer una masa de pizza con levadura seca, <br>
         ambas son válidas. En el caso de que prefieras la seca, deberás <br>
@@ -11,7 +20,7 @@
         <p>En general, unos 30 gramos de levadura fresca equivalen a unos 10<br> 
          gramos de levadura seca, tenlo en cuenta por si quieres usar una<br> 
          levadura diferente a la de esta receta de pizza italiana.</p>
-
+    <ol>
         <li> Cuando hayas mezclado la levadura con el agua, agrega las dos<br> 
             cucharadas de aceite. Mezcla bien para que se integren todos los<br>
             ingredientes para la pizza.</li> 
@@ -31,11 +40,14 @@
             los costados, dándole forma circular. Si dispones de rodillo también puedes<br> 
             utilizarlo para que quede más fina la masa. Una vez estirada, ya puedes añadir<br>
             la salsa para pizza casera y los ingredientes para pizza que prefieras. 
-        <li><strong>Agregar Ingredientes que se aplicaran en la Pizza</strong></li>
+        <li><strong>Agregar Ingredientes que se aplicaran en la Pizza</strong>, empezando con las salsas<br>
+        y terminando con los ingredientes secos esparcidos de la manera que tu prefieras.</li>
         <li>Una vez hayas escogido los ingredientes y tengas tu masa de pizza casera terminada,<br> 
             deberás precalentar el horno a temperatura máxima durante unos 20 minutos.</li>
-        <br>Pasado el tiempo, introduce la preparación pizza casera y hornéala durante<br> 
+        <li>Pasado el tiempo, introduce la preparación pizza casera y hornéala durante<br> 
             10 minutos aproximadamente. Deberás vigilarla porque el tiempo final variará<br>
             en función del tipo de horno y la intensidad que tenga. ¡Listo, tu pizza casera<br> 
             al horno estará para chuparse los dedos!</li>
-    </ol>
+    </ol>    
+</body>
+</html>
